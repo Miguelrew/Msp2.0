@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-01-16 22:30:08 +0000"
+    },
+    "done": true
+  },
   "takesapillage:root": {
     "criteria": {
       "always": "2025-01-16 22:25:43 +0000"
@@ -16,6 +22,12 @@
       "log_spam_fixer": "2025-01-16 22:25:44 +0000"
     },
     "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-16 22:36:14 +0000"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
@@ -35,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-16 22:31:44 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2025-01-16 22:25:43 +0000"
@@ -44,6 +62,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-01-16 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-16 22:32:48 +0000"
     },
     "done": true
   },
@@ -64,6 +88,12 @@
       "log_spam_fixer": "2025-01-16 22:25:44 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-16 22:30:08 +0000"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -109,6 +139,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-16 22:33:08 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-16 22:25:43 +0000"
@@ -124,6 +160,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-01-16 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-16 22:29:07 +0000"
     },
     "done": true
   },

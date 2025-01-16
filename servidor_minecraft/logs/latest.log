@@ -578,3 +578,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jan2025 22:28:52.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Adaren_ZP> ok
 [16Jan2025 22:29:47.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 has made the advancement [Stone Age]
 [16Jan2025 22:29:57.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Stone Age]
+[16Jan2025 22:31:02.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Getting an Upgrade]
+[16Jan2025 22:31:25.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 has made the advancement [Getting an Upgrade]
+[16Jan2025 22:31:44.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Stone Age]
+[16Jan2025 22:32:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 has made the advancement [Monster Hunter]
+[16Jan2025 22:32:48.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Getting an Upgrade]
+[16Jan2025 22:34:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 was slain by Zombie
+[16Jan2025 22:34:34.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 has made the advancement [Your First Grave]
+[16Jan2025 22:34:34.561] [Server thread/INFO] [tombstone/]: The player Miguel9787 has successfully been saved
+[16Jan2025 22:34:55.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 has reached the goal [Here They Come]
+[16Jan2025 22:35:54.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 liquified to Fanta juice
+[16Jan2025 22:35:54.903] [Server thread/INFO] [tombstone/]: The player Miguel9787 has successfully been saved
+[16Jan2025 22:36:07.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP liquified to Fanta juice
+[16Jan2025 22:36:07.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Your First Grave]
+[16Jan2025 22:36:07.294] [Server thread/INFO] [tombstone/]: The player Adaren_ZP has successfully been saved
+[16Jan2025 22:36:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [This Must be a Sign!]
+[16Jan2025 22:36:55.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has reached the goal [Here They Come]
+[16Jan2025 22:37:55.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 was struck by lightning
+[16Jan2025 22:37:55.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Your First Grave]
+[16Jan2025 22:37:55.493] [Server thread/INFO] [tombstone/]: The player IV4N_002 has successfully been saved
+[16Jan2025 22:38:23.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Monster Hunter]
+[16Jan2025 22:38:32.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP drowned whilst trying to escape Direwolf
+[16Jan2025 22:38:32.189] [Server thread/INFO] [tombstone/]: The player Adaren_ZP has successfully been saved
+[16Jan2025 22:38:43.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 drowned
+[16Jan2025 22:38:43.292] [Server thread/INFO] [tombstone/]: The player Miguel9787 has successfully been saved
+[16Jan2025 22:39:03.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miguel9787 moved wrongly!
+[16Jan2025 22:39:06.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Monster Hunter]
+[16Jan2025 22:39:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Knowledge of Death]
+[16Jan2025 22:39:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Ambush]
+[16Jan2025 22:39:35.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [This Must be a Sign!]
+[16Jan2025 22:40:03.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Knowledge of Death]
+[16Jan2025 22:40:03.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Ambush]
+[16Jan2025 22:41:05.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 has made the advancement [Knowledge of Death]
+[16Jan2025 22:41:05.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 has made the advancement [Ambush]
