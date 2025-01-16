@@ -209,6 +209,8 @@
     "criteria": {
       "minecraft:pillager": "2025-01-16 22:42:22 +0000",
       "minecraft:skeleton": "2025-01-16 22:32:04 +0000",
+      "minecraft:ravager": "2025-01-16 22:47:17 +0000",
+      "minecraft:creeper": "2025-01-16 23:00:07 +0000",
       "minecraft:zombie": "2025-01-16 22:35:16 +0000",
       "minecraft:drowned": "2025-01-16 22:38:27 +0000"
     },

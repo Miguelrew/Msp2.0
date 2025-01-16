@@ -23,35 +23,17 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
-  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-01-16 22:36:14 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
-  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-01-16 22:25:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -68,6 +50,12 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-01-16 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-16 22:50:22 +0000"
     },
     "done": true
   },
@@ -101,12 +89,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-16 22:32:48 +0000"
@@ -115,13 +97,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
+      "requirement": "2025-01-16 23:01:39 +0000"
     },
     "done": false
   },
@@ -174,11 +150,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
+      "has_ingredient": "2025-01-16 22:50:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -191,23 +167,17 @@
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
-  },
   "placeablesmod:placeables": {
     "criteria": {
       "placeables": "2025-01-16 22:25:43 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
+      "killed_fire_dragon": "2025-01-16 22:50:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
@@ -218,6 +188,19 @@
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2025-01-16 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-01-16 22:53:37 +0000",
+      "cooked_chicken": "2025-01-16 22:50:49 +0000"
+    },
+    "done": false
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-01-16 22:52:29 +0000"
     },
     "done": true
   },
@@ -232,12 +215,6 @@
       "consumed_item": "2025-01-16 22:33:08 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
   },
   "betterdeserttemples:root": {
     "criteria": {
@@ -280,18 +257,6 @@
       "has_recipe": "2025-01-16 22:25:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-16 22:46:39 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }

@@ -642,3 +642,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jan2025 22:48:49.393] [Server thread/INFO] [tombstone/]: The player Adaren_ZP has successfully been saved
 [16Jan2025 22:50:22.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Who You Gonna Call?]
 [16Jan2025 22:50:22.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [A Strange Grave Dust]
+[16Jan2025 22:51:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 was slain by Ghost
+[16Jan2025 22:51:34.800] [Server thread/INFO] [tombstone/]: The player IV4N_002 has successfully been saved
+[16Jan2025 22:52:29.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IV4N_002 has made the advancement [Campfire Song Song]
+[16Jan2025 22:53:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguel9787: Set own game mode to Survival Mode]
+[16Jan2025 22:53:12.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguel9787: Teleported Miguel9787 to Adaren_ZP]
+[16Jan2025 22:53:46.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IV4N_002> tp
+[16Jan2025 22:53:58.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguel9787: Teleported IV4N_002 to Miguel9787]
+[16Jan2025 22:58:04.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Miguel9787 was slain by Zombie
+[16Jan2025 22:58:04.238] [Server thread/INFO] [tombstone/]: The player Miguel9787 has successfully been saved
+[16Jan2025 22:58:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguel9787: Teleported Miguel9787 to Adaren_ZP]
+[16Jan2025 22:58:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguel9787: Teleported Miguel9787 to IV4N_002]
+[16Jan2025 22:59:04.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IV4N_002> y
+[16Jan2025 22:59:06.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IV4N_002> ya
+[16Jan2025 22:59:13.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Acquire Hardware]
+[16Jan2025 22:59:44.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Miguel9787 moved wrongly!
+[16Jan2025 23:00:25.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguel9787: Teleported 3 entities to Adaren_ZP]
+[16Jan2025 23:00:49.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP has made the advancement [Isn't It Iron Pick]
+[16Jan2025 23:01:03.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Adaren_ZP was slain by Diamond Termite
+[16Jan2025 23:01:03.485] [Server thread/INFO] [tombstone/]: The player Adaren_ZP has successfully been saved
+[16Jan2025 23:01:07.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=63, z=0}
+[16Jan2025 23:01:07.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=63, z=0}
+[16Jan2025 23:01:09.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=63, z=0}
+[16Jan2025 23:01:15.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Miguel9787: Teleported Adaren_ZP to Miguel9787]
