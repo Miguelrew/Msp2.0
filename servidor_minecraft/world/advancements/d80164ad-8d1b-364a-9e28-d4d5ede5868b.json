@@ -95,12 +95,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-01-16 23:01:39 +0000"
-    },
-    "done": false
-  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-01-16 22:25:43 +0000"

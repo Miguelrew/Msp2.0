@@ -95,6 +95,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-16 23:11:39 +0000"
+    },
+    "done": false
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "white": "2025-01-16 23:03:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-16 22:43:02 +0000"
